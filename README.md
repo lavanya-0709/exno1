@@ -1,3 +1,5 @@
+# NAME: LAVANYA S
+# REG NO: 212223230112
 # Exno:1
 Data Cleaning Process
 
